@@ -6,7 +6,7 @@ from PIL import Image
 from io import BytesIO
 import requests
 
-openai.api_key = "YOUR_OPENAI_API_KEY"
+openai.api_key = "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"
 
 app = Flask(__name__)
 
